@@ -51,6 +51,6 @@ export const ProjectList = [
   {
     name: "Employee Management System",
     image: Proj9,
-    skills: "React Native,JavaScript,HTML,CSS",
+    skills: "Java, Spring Boot, ReactJS, JavaScript, HTML, CSS",
   },
 ];

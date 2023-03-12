@@ -40,7 +40,7 @@ function Experience() {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2012 - 2017"
+          date="2022 - Present"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<WorkIcon />}
         >
@@ -55,7 +55,7 @@ function Experience() {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2020 - present"
+          date="2019 - 2022"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<WorkIcon />}
         >
@@ -66,7 +66,7 @@ function Experience() {
             Warri, Delta State
           </h4>
           <p>
-            Helped the team in the execution of multiple projects in the oil and gas sector through the appication of top-notch project management methodologies.
+            Helped the team in the execution of multiple projects in the oil and gas sector through the appication of top-notch project management methodologies and skills.
           </p>
         </VerticalTimelineElement>
       </VerticalTimeline>
