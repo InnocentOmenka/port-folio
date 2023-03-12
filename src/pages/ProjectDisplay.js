@@ -10,11 +10,13 @@ function ProjectDisplay() {
   return (
     <div className="project">
       <h1> {project.name}</h1>
+      <a href="https://github.com/InnocentOmenka">
       <img src={project.image} alt="" />
+      </a>
       <p>
         <b>Skills:</b> {project.skills}
       </p>
-      <GitHubIcon />
+      <a href="https://github.com/InnocentOmenka"><GitHubIcon /></a>
     </div>
   );
 }

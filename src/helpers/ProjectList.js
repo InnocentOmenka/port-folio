@@ -12,42 +12,41 @@ export const ProjectList = [
   {
     name: "Decapay Budget Tracker",
     image: Proj1,
-    skills: "JavaScript,HTML,CSS",
+    skills: "ReactJs, Java, Spring Boot, Docker, Swagger, Postgres, Spring Security, Junit/Mockito",
   },
   {
     name: "Ecommerce Website",
     image: Proj2,
-    skills: "React,Node.js,MongoDB",
+    skills: "ReactJs, Java, Spring Boot, Docker, Swagger, Postgres, Spring Security" },
+  // {
+  //   name: "Spotify Clone",
+  //   image: Proj3,
+  //   skills: "React,Node.js,MongoDB,SpotifyAPI",
+  // },
+   {
+     name: "Fashion Blog API",
+     image: Proj4,
+    skills: "Java, Spring Boot, Junit/Mockito, MySQL",
   },
-  {
-    name: "Spotify Clone",
-    image: Proj3,
-    skills: "React,Node.js,MongoDB,SpotifyAPI",
-  },
-  {
-    name: "Social Media Website",
-    image: Proj4,
-    skills: "React,Node.js,MySQL,GraphQL",
-  },
-  {
-    name: "Dashboard Visualizer",
-    image: Proj5,
-    skills: "JavaScript,HTML,CSS",
-  },
-  {
-    name: "Mobile Game",
-    image: Proj6,
-    skills: "React Native,JavaScript,HTML,CSS",
-  },
-  {
-    name: "Decapay",
-    image: Proj7,
-    skills: "React Native,JavaScript,HTML,CSS",
-  },
+  // {
+  //   name: "Dashboard Visualizer",
+  //   image: Proj5,
+  //   skills: "JavaScript,HTML,CSS",
+  // },
+  // {
+  //   name: "Mobile Game",
+  //   image: Proj6,
+  //   skills: "React Native,JavaScript,HTML,CSS",
+  // },
+  // {
+  //   name: "Decapay",
+  //   image: Proj7,
+  //   skills: "React Native,JavaScript,HTML,CSS",
+  // },
   {
     name: "Pay Buddy",
     image: Proj8,
-    skills: "React Native,JavaScript,HTML,CSS",
+    skills: "ReactJs, Java, Spring Boot, Docker, Swagger, Postgres, Spring Security, Junit/Mockito",
   },
   {
     name: "Employee Management System",
